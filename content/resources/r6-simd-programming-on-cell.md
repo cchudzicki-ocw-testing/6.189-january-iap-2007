@@ -2,6 +2,20 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Recitations
+optional_tab_title: ''
+optional_text: ''
+parent_title: Recitations
+parent_type: CourseSection
+related_resources_text: "Special software is required to use some of the files in\
+  \ this section: .[zip](/help/faq-technical-requirements/#zip), [.c](/help/faq-technical-requirements/#c),\
+  \ [.h](/help/faq-technical-requirements/#h), and [.s](/help/faq-technical-requirements/#s).\n\
+  \n**Lecture Notes:**  \nSIMD programming on Cell ([PDF](resources/6189recitatn6\
+  \ \"Open in a new window.\"))\n\n**Supporting Files:**  \nrec6.zip ([ZIP](resources/rec6\
+  \ \"Open in a new window.\")) (The ZIP file contains: 4 .o files, sim\\_spu, sim,\
+  \ 3 .d files, sim\\_spu.a, 5 .h files, 10 makefile files, and 14 .c files.)"
+resource_index_text: ''
 resourcetype: Video
 title: 'R6: SIMD Programming on Cell'
 uid: 43100f59-29a9-b823-e22a-5f55efec95f5

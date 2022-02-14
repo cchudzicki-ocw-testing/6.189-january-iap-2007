@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec16games "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L16: Introduction to Game Development'
 uid: 560d0803-2c63-d089-dacb-27b78bd7f92f

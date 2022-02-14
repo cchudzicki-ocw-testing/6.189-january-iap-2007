@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF - 1.1 MB](resources/lec10perfrmnce "Open
+  in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L10: Performance Monitoring and Optimizations'
 uid: e12a04af-f77f-b12a-74bf-0285fef61fae

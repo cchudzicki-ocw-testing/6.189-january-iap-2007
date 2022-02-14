@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF - 2.1 MB](resources/lec2cell "Open in
+  a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L2: Introduction to Cell Processor'
 uid: 8bfc4608-0b11-ab1c-a392-8d2f2bd472e8

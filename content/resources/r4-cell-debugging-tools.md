@@ -2,6 +2,75 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Recitations
+optional_tab_title: ''
+optional_text: ''
+parent_title: Recitations
+parent_type: CourseSection
+related_resources_text: 'Special software is required to use some of the files in
+  this section: .[zip](/help/faq-technical-requirements/#zip), [.c](/help/faq-technical-requirements/#c),
+  [.h](/help/faq-technical-requirements/#h), and [.s](/help/faq-technical-requirements/#s).
+
+
+  **Recitation 1** - No video available for this recitation
+
+
+  **Lecture Notes:**
+
+
+  Getting to know Cell ([PDF](resources/recitatn1 "Open in a new window."))
+
+
+  Take-home lab ([PDF](resources/lab1 "Open in a new window."))
+
+
+  **Supporting Files:**
+
+
+  examples.zip ([ZIP](resources/examples "Open in a new window.")) (The ZIP file contains:
+  9 .c files, 10 makefile files, and 3 .h files.)
+
+
+  6181lab1.zip ([ZIP](resources/6189lab1 "Open in a new window.")) (The ZIP file contains:
+  dist.c, common.h, and 2 makefile files.)
+
+
+  6189lab1sol.zip ([ZIP](resources/6189lab1sol "Open in a new window.")) (The ZIP
+  file contains: dist.c, dist\_spu.c, common.h, and 2 makefile files.)
+
+
+  **Recitation 2-3** - No video available for this recitation
+
+
+  **Lecture Notes:**
+
+
+  Cell programming hands-on ([PDF](resources/6189recitatn2 "Open in a new window."))
+
+
+  **Supporting Files:**
+
+
+  rec2.zip ([ZIP](resources/rec2 "Open in a new window.")) (The ZIP file contains:
+  2 .s files, 19 .c files, 7 .h files and 15 makefile files.)
+
+
+  **Recitation 4**
+
+
+  **Lecture Notes:**
+
+
+  Cell debugging tools ([PDF](resources/6189_recitatn4 "Open in a new window."))
+
+
+  **Supporting Files:**
+
+
+  rec2.zip ([ZIP](resources/rec2 "Open in a new window.")) (The ZIP file contains:
+  2 .s files, 19 .c files, 7 .h files and 15 makefile files.)'
+resource_index_text: ''
 resourcetype: Video
 title: 'R4: Cell Debugging Tools'
 uid: 7328d052-cd18-fe21-76fe-abaafe5eccdb

@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ([PDF](resources/softwareradio "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Project: Software Radio '
 uid: 184452f8-9191-8405-5a18-a9c47db2608a

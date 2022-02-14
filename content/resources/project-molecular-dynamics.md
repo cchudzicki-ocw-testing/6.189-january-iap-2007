@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ([PDF](resources/moleculrdynmcs "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Project: Molecular Dynamics '
 uid: d6d23ff4-e90b-60cb-2c11-e23c582e7787

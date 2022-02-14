@@ -4,7 +4,12 @@ description: Recitation notes on multicore programming with Cell. Topics include
   overview of SIMD, vector intrinsics on Cell, and SIMD design considerations.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-multicore-programming-primer-january-iap-2007/0410c29ef913477b9b5d4769f628a678_6189recitatn6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: SIMD Programming on Cell
+type: OCWFile
 uid: 0410c29e-f913-477b-9b5d-4769f628a678
 ---

@@ -5,7 +5,12 @@ description: Lecture presentation on concurrent programming with an emphasis on 
   model, Java as a language, and an abstract shared memory machine model .
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-multicore-programming-primer-january-iap-2007/473fa522f1a7a03c89130c6de55ebc51_lec4concurrency.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 4: Concurrent Programming'
+type: OCWFile
 uid: 473fa522-f1a7-a03c-8913-0c6de55ebc51
 ---

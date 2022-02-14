@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: ([PDF](resources/backgammon_tutor "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'Project: Backgammon Tutor '
 uid: 5c11af59-2dda-a40c-83f7-60df102d3832

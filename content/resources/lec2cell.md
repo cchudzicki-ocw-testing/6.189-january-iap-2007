@@ -7,7 +7,12 @@ description: Lecture presentation with an introduction to the cell processor. To
   blade.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-multicore-programming-primer-january-iap-2007/56d952b2cf5c52c89a4018bd081ac92b_lec2cell.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: Introduction to the Cell Processor'
+type: OCWFile
 uid: 56d952b2-cf5c-52c8-9a40-18bd081ac92b
 ---

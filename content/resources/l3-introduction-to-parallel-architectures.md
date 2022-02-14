@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF - 1.5 MB](resources/lec3architctre "Open
+  in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L3: Introduction to Parallel Architectures'
 uid: ff54689f-9a2d-5cb3-74eb-29b95b36eedd

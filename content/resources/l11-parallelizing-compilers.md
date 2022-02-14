@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec11compilers "Open in a new
+  window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L11: Parallelizing Compilers'
 uid: 9fbaa995-32b1-034d-0db2-098164665871

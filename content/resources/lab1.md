@@ -4,7 +4,12 @@ description: 'Lab exercise intended to familiarize you with the basics of DMA an
   using SPE threads. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-multicore-programming-primer-january-iap-2007/33aa100dc16a30b40c43a0faf2d95ce9_lab1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Recitations
+parent_title: Recitations
+parent_type: CourseSection
 resourcetype: Document
 title: Lab 1
+type: OCWFile
 uid: 33aa100d-c16a-30b4-0c43-a0faf2d95ce9
 ---

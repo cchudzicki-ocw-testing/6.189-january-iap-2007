@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec14bluespec "Open in a new
+  window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L14: Synthesizing Parallel Programs'
 uid: f4d087c2-eff6-5879-4c54-24182e97c9ba

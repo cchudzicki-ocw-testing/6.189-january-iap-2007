@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec9debugging "Open in a new
+  window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L9: Debugging Parallel Programs'
 uid: ea739354-9a19-4394-53ec-f5bb638bd0bd

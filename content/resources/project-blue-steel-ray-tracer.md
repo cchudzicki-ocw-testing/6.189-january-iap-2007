@@ -2,6 +2,18 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: 'This section contains documents that are inaccessible to
+  screen reader software. A "#" symbol is used to denote such documents.
+
+
+  ([PDF - 2.7 MB](resources/bluesteel "Open in a new window.")){{< sup "#" >}}'
+resource_index_text: ''
 resourcetype: Video
 title: 'Project: Blue-steel Ray Tracer '
 uid: f6e6349d-29b5-857e-f6c7-4beac6628d42

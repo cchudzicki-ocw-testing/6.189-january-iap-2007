@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF - 1.9 MB](resources/lec17raw "Open in
+  a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: '17: The Raw Experience'
 uid: b684a726-3547-c209-c1eb-fc11694831c9

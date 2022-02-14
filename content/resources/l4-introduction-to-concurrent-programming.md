@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec4concurrency "Open in a
+  new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L4: Introduction to Concurrent Programming'
 uid: 5bb0a956-08e3-7ec6-dc17-e8a9b44d408a

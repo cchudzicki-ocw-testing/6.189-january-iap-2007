@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Projects
+optional_tab_title: ''
+optional_text: ''
+parent_title: Projects
+parent_type: CourseSection
+related_resources_text: Award Ceremony ([PDF](resources/6189awards "Open in a new
+  window."))
+resource_index_text: ''
 resourcetype: Video
 title: Congratulations
 uid: d9a55205-7e12-ee96-df9d-88c6e14b882e

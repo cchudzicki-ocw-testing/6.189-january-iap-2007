@@ -2,6 +2,19 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: "This section contains documents which are inaccessible to\
+  \ screen reader software due to technical reasons. A \"#\" symbol is used to denote\
+  \ such documents.\n\nLecture 12 Notes ([PDF](resources/lec12streaming \"Open in\
+  \ a new window.\"))\n\n**Lecture 13**  \nVideo is not available for Lecture 13.\n\
+  \nLecture 13 Notes ([PDF - 1.9 MB](http://cag.csail.mit.edu/ps3/lectures/6.189-lecture13-starp.pdf\
+  \ \"Open in a new window.\")){{< sup \"#\" >}}"
+resource_index_text: ''
 resourcetype: Video
 title: 'L12: StreamIt Parallelizing Compiler'
 uid: 378dea10-2be8-e9ee-e65d-954c647c16d0

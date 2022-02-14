@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec5parallelism "Open in a
+  new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L5: Parallel Programming Concepts'
 uid: 04604da5-5928-0062-93ea-a04aecd3925f

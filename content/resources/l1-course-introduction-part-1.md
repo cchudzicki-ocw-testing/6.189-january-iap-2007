@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec1intro "Open in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L1: Course Introduction (part 1)'
 uid: c14e2f82-b6c6-dc34-1507-aee5d19e4843

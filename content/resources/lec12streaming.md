@@ -4,7 +4,12 @@ description: Lecture presentation on StreamIt, a high-level, architecture-indepe
   language for streaming applications.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-multicore-programming-primer-january-iap-2007/a5bba5bbfd18c0eb74cbbbc52e860c39_lec12streaming.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 12: StreamIt Parallelizing Compiler'
+type: OCWFile
 uid: a5bba5bb-fd18-c0eb-74cb-bbc52e860c39
 ---

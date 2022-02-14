@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF](resources/lec7patterns2 "Open in a new
+  window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L7: Design Patterns for Parallel Programming II'
 uid: 306cd571-b546-2d37-1644-2dda000bb886

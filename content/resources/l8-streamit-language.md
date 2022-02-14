@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF - 1.1 MB](resources/lec8streamit "Open
+  in a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L8: StreamIt Language'
 uid: 05895c8b-0759-4f57-d7ce-450c591b7c08

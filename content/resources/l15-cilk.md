@@ -2,6 +2,15 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Notes
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Notes and Video
+parent_type: CourseSection
+related_resources_text: Lecture Notes ([PDF - 1.4 MB](resources/lec15cilk "Open in
+  a new window."))
+resource_index_text: ''
 resourcetype: Video
 title: 'L15: Cilk'
 uid: 2edc2cbc-9083-e459-e08f-8478bb72036d
