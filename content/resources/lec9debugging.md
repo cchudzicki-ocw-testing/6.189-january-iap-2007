@@ -10,6 +10,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 9: Debugging Parallel Programs'
-type: OCWFile
 uid: af439a37-6ea0-5c19-5830-6c7dda1883f7
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 13: Star-P'
-type: OCWFile
 uid: abeefaa6-6e38-dc32-44e9-f661ab337962
 ---

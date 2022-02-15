@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: Getting to Know Cell
-type: OCWFile
 uid: ab8d07da-a0a2-bb06-e445-5986ba3f7391
 ---

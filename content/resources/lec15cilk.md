@@ -11,6 +11,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 15: Cilk'
-type: OCWFile
 uid: 34fc9599-295e-d0f5-4349-a4d5ff989c2c
 ---

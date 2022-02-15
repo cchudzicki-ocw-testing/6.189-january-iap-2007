@@ -12,6 +12,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3: Introduction to Parallel Architectures'
-type: OCWFile
 uid: 0e56d30f-b5cc-e40a-429b-63435d2a039a
 ---

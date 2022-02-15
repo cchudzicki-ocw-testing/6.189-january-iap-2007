@@ -10,6 +10,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 17: The Raw Experience'
-type: OCWFile
 uid: d407ef3d-dee1-9128-390c-0d44d8e4b2d0
 ---

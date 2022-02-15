@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Project Ideas
-type: OCWFile
 uid: 56017c12-e132-de17-4b20-ab6b176a4823
 ---

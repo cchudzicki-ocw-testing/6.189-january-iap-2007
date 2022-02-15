@@ -6,7 +6,6 @@ parent_title: Recitations
 parent_type: CourseSection
 parent_uid: 1a727310-1a37-c171-a13d-06e2fa6799d5
 title: Recitation 4
-type: CourseSection
 uid: 7cd1d436-5913-bc67-0135-17e4e021c628
 ---
 

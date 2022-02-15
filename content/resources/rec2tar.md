@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: rec2tar
-type: OCWFile
 uid: 79ef133d-a828-8d90-4843-df2fce3a219e
 ---

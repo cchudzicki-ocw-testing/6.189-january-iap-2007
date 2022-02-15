@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: Cell Debugging Tools
-type: OCWFile
 uid: be38bd4a-3e44-2c76-4e32-96c85e6c1a0e
 ---

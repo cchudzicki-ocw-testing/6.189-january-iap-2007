@@ -9,6 +9,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 18: The Future'
-type: OCWFile
 uid: 2cd52de5-a47b-22d0-2a79-2b8d436cace7
 ---

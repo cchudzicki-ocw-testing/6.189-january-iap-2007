@@ -10,6 +10,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 12: StreamIt Parallelizing Compiler'
-type: OCWFile
 uid: a5bba5bb-fd18-c0eb-74cb-bbc52e860c39
 ---

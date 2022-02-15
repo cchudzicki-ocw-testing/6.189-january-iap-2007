@@ -10,6 +10,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture7: Design Patterns for Parallel Programming II'
-type: OCWFile
 uid: f7efaba0-1ecc-e00b-739c-1d4c93396e18
 ---

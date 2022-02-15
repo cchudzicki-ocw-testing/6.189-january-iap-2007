@@ -9,6 +9,5 @@ parent_title: Quizzes
 parent_type: CourseSection
 resourcetype: Document
 title: 'Mini-Quiz #3 Solutions'
-type: OCWFile
 uid: 9f4bbf62-ae86-630b-b65a-bb5d936f0658
 ---

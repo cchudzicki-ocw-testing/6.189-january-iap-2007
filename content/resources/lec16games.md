@@ -10,6 +10,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 16: Introduction to Game Development'
-type: OCWFile
 uid: 0cbeedf1-8c91-ac6c-0b75-d21194f1d5fd
 ---

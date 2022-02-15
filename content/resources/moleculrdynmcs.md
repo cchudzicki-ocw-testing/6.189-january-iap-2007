@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Molecular Dynamics on the Playstation 3
-type: OCWFile
 uid: f2adbe78-0fde-db81-d13d-1904e3e3d6f3
 ---

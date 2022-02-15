@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Blue-Steel Ray Tracer
-type: OCWFile
 uid: 80cc6e28-c46b-819b-0ab4-b4cf4ab2825f
 ---

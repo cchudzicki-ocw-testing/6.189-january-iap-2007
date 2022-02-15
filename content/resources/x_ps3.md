@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: How to get X to work on the PS3 console
-type: OCWFile
 uid: 2137f722-df94-895c-b9f5-a7ef97e9fce3
 ---

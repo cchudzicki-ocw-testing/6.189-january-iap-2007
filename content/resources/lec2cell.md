@@ -13,6 +13,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 2: Introduction to the Cell Processor'
-type: OCWFile
 uid: 56d952b2-cf5c-52c8-9a40-18bd081ac92b
 ---

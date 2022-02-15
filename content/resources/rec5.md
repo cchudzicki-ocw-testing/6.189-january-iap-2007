@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: rec5
-type: OCWFile
 uid: 1e860c10-2aad-bab7-e450-cc9957a60638
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 8: The StreamIt Language'
-type: OCWFile
 uid: ee752932-4452-e6df-2f6e-76dc58b0e6e8
 ---

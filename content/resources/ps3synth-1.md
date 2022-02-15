@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: ps3synth
-type: OCWFile
 uid: 7831642b-36fe-78e2-c673-4d1ae1ec354b
 ---

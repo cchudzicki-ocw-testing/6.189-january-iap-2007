@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: Cell programming mini-reference
-type: OCWFile
 uid: 404bfec2-d60c-41af-4399-fc9d31d6450d
 ---

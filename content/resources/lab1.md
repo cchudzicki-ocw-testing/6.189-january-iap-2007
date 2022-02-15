@@ -10,6 +10,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: Lab 1
-type: OCWFile
 uid: 33aa100d-c16a-30b4-0c43-a0faf2d95ce9
 ---

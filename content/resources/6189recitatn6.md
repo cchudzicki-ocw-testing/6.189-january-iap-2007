@@ -10,6 +10,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: SIMD Programming on Cell
-type: OCWFile
 uid: 0410c29e-f913-477b-9b5d-4769f628a678
 ---

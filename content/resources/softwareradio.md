@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Software Radio
-type: OCWFile
 uid: 8a4fa3fd-099a-55f9-c6de-da50ea110c7d
 ---

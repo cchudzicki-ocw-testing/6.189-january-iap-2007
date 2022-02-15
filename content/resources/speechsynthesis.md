@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Speech Synthesis
-type: OCWFile
 uid: 64ec9092-12c4-8315-e922-a39582f2af9c
 ---

@@ -9,6 +9,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 14: Synthesizing Parallel Programs'
-type: OCWFile
 uid: 21a7bad6-aeea-d13d-6d70-e4ad8e2c6940
 ---

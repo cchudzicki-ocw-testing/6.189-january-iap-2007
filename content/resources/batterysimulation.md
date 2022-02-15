@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Other
 title: batterysimulation
-type: OCWFile
 uid: 3dd5c818-33ef-b445-999e-91d110bbd4b0
 ---

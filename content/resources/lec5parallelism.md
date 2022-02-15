@@ -11,6 +11,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 5: Parallel Programming Concepts'
-type: OCWFile
 uid: d06bb54c-931d-47ee-8d8f-6ab447fb0034
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Backgammon Tutor
-type: OCWFile
 uid: 68bf3a79-e5d8-bc3c-7958-9be08d97eeb6
 ---

@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Global Illumination
-type: OCWFile
 uid: d414927f-34ea-7357-b203-f8181f86e620
 ---

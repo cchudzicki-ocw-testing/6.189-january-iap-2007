@@ -9,6 +9,5 @@ parent_title: Projects
 parent_type: CourseSection
 resourcetype: Document
 title: Award Ceremony
-type: OCWFile
 uid: a1920231-adba-0af8-5851-6ed1228e3f38
 ---

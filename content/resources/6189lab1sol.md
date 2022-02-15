@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: 6189lab1sol
-type: OCWFile
 uid: c6aca203-8a43-e262-a181-f8adbeb7447b
 ---

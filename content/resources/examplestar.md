@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: examplestar
-type: OCWFile
 uid: 2a0de9a3-fcad-ffe8-8cf8-5ea3357a9001
 ---

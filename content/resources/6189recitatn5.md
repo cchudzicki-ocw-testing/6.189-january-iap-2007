@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: Cell Profiling Tools
-type: OCWFile
 uid: 5d771ccc-cd24-54a8-dfcb-a12aa58804d3
 ---

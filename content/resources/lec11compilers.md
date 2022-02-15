@@ -11,6 +11,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 11: Parallelizing Compilers'
-type: OCWFile
 uid: d8172b0d-04b6-bd46-2126-dc552bccd52b
 ---

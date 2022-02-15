@@ -11,6 +11,5 @@ parent_title: Lecture Notes and Video
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 4: Concurrent Programming'
-type: OCWFile
 uid: 473fa522-f1a7-a03c-8913-0c6de55ebc51
 ---

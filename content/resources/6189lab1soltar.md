@@ -9,6 +9,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Other
 title: 6189lab1soltar
-type: OCWFile
 uid: 73edeca4-ac3f-3148-3342-27a241cf7753
 ---
