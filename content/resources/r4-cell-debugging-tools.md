@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Recitations
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Recitations

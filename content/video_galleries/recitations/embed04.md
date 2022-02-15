@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types:
 - Recitations
+ocw_type: CourseSection
 parent_title: Recitations
 parent_type: CourseSection
 parent_uid: 1a727310-1a37-c171-a13d-06e2fa6799d5

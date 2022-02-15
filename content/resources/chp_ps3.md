@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: The Playstation 3
 uid: adbeb3db-95c2-3692-6e16-486413e60217
