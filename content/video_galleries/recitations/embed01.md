@@ -56,9 +56,9 @@ David Zhang
 
 **Lecture Notes:**
 
-Getting to know Cell ([PDF]({{< baseurl >}}/resources/recitatn1))
+Getting to know Cell ({{< resource_link ab8d07da-a0a2-bb06-e445-5986ba3f7391 "PDF" >}})
 
-Take-home lab ([PDF]({{< baseurl >}}/resources/lab1))
+Take-home lab ({{< resource_link 33aa100d-c16a-30b4-0c43-a0faf2d95ce9 "PDF" >}})
 
 
 {{< tdclose >}}

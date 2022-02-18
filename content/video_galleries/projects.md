@@ -59,7 +59,7 @@ We strongly encourage you to take the time and rehearse your presentation at lea
 
 ### Projects
 
-Project Ideas ([PDF]({{< baseurl >}}/resources/project_ideas))
+Project Ideas ({{< resource_link 56017c12-e132-de17-4b20-ab6b176a4823 "PDF" >}})
 
 The videos and presentations in the projects are courtesy of the team members and are used with permission.
 

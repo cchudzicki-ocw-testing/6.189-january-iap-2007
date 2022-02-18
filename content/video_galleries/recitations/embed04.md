@@ -62,7 +62,7 @@ Internet Archive ([MP4 - 68.5 MB](http://www.archive.org/download/MIT6.189IAP07/
 
 
 **Lecture Notes:**  
-Cell profiling tools ([PDF]({{< baseurl >}}/resources/6189recitatn5))
+Cell profiling tools ({{< resource_link 5d771ccc-cd24-54a8-dfcb-a12aa58804d3 "PDF" >}})
 
 
 {{< tdclose >}}
