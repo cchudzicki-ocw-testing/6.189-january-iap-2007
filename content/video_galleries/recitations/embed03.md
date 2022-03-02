@@ -62,7 +62,7 @@ Internet Archive ([MP4 - 79 MB](http://www.archive.org/download/MIT6.189IAP07/oc
 
 
 **Lecture Notes:  
-**Cell debugging tools ({{< resource_link be38bd4a-3e44-2c76-4e32-96c85e6c1a0e "PDF" >}})
+**Cell debugging tools ({{% resource_link be38bd4a-3e44-2c76-4e32-96c85e6c1a0e "PDF" %}})
 
 
 {{< tdclose >}}

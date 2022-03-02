@@ -62,7 +62,7 @@ Internet Archive ([MP4 - 68.5 MB](http://www.archive.org/download/MIT6.189IAP07/
 
 
 **Lecture Notes:**  
-SIMD programming on Cell ({{< resource_link 0410c29e-f913-477b-9b5d-4769f628a678 "PDF" >}})
+SIMD programming on Cell ({{% resource_link 0410c29e-f913-477b-9b5d-4769f628a678 "PDF" %}})
 
 
 {{< tdclose >}}

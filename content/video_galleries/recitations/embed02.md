@@ -54,7 +54,7 @@ David Zhang
 
 **Lecture Notes:**
 
-Cell programming hands-on ({{< resource_link e1bc0a0f-c749-be80-da3a-3b631f7846f0 "PDF" >}})
+Cell programming hands-on ({{% resource_link e1bc0a0f-c749-be80-da3a-3b631f7846f0 "PDF" %}})
 
 
 {{< tdclose >}}
