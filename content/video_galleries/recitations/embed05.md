@@ -70,7 +70,7 @@ SIMD programming on Cell ({{% resource_link 0410c29e-f913-477b-9b5d-4769f628a678
 
 
 **Supporting Files:**  
-rec6.zip ([ZIP](/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007/recitations/rec6.zip)) (The ZIP file contains: 4 .o files, sim\_spu, sim, 3 .d files, sim\_spu.a, 5 .h files, 10 makefile files, and 14 .c files.)
+rec6.zip ({{% resource_link 91d1d7ff-7f74-386e-25a9-ad3981c8cb3b "ZIP" %}}) (The ZIP file contains: 4 .o files, sim\_spu, sim, 3 .d files, sim\_spu.a, 5 .h files, 10 makefile files, and 14 .c files.)
 
 
 {{< tdclose >}}
