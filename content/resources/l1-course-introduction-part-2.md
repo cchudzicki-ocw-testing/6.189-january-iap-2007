@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF](resources/lec1intro "Open in a new window."))
+related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec1intro))
 resource_index_text: ''
 resourcetype: Video
 title: 'L1: Course Introduction (part 2)'

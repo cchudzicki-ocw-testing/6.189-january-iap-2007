@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF](resources/lec9debugging "Open in a new
-  window."))
+related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec9debugging))
 resource_index_text: ''
 resourcetype: Video
 title: 'L9: Debugging Parallel Programs'

@@ -13,7 +13,8 @@ related_resources_text: 'This section contains documents that are inaccessible t
   screen reader software. A "#" symbol is used to denote such documents.
 
 
-  ([PDF - 2.7 MB](resources/bluesteel "Open in a new window.")){{< sup "#" >}}'
+  ([PDF - 2.7 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/bluesteel)){{<
+  sup "#" >}}'
 resource_index_text: ''
 resourcetype: Video
 title: 'Project: Blue-steel Ray Tracer '

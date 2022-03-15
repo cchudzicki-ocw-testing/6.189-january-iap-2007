@@ -9,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Projects
 parent_type: CourseSection
-related_resources_text: ([PDF](resources/moleculrdynmcs "Open in a new window."))
+related_resources_text: ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/moleculrdynmcs))
 resource_index_text: ''
 resourcetype: Video
 title: 'Project: Molecular Dynamics '

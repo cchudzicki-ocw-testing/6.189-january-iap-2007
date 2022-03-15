@@ -9,8 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Notes and Video
 parent_type: CourseSection
-related_resources_text: Lecture Notes ([PDF - 1.9 MB](resources/lec17raw "Open in
-  a new window."))
+related_resources_text: Lecture Notes ([PDF - 1.9 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec17raw))
 resource_index_text: ''
 resourcetype: Video
 title: '17: The Raw Experience'
