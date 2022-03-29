@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.1 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec10perfrmnce))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L10: Performance Monitoring and Optimizations'
 uid: e12a04af-f77f-b12a-74bf-0285fef61fae
 video_files:

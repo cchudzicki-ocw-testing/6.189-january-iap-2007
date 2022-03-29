@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec9debugging))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L9: Debugging Parallel Programs'
 uid: ea739354-9a19-4394-53ec-f5bb638bd0bd
 video_files:

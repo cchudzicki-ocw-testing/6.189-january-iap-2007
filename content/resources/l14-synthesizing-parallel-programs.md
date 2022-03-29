@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec14bluespec))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L14: Synthesizing Parallel Programs'
 uid: f4d087c2-eff6-5879-4c54-24182e97c9ba
 video_files:

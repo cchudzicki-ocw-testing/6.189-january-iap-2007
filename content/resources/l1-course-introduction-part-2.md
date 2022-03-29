@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec1intro))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L1: Course Introduction (part 2)'
 uid: 72ce9063-cfd2-88d6-32f6-844ab82689f7
 video_files:

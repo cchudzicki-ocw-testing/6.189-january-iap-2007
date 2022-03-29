@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec4concurrency))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L4: Introduction to Concurrent Programming'
 uid: 5bb0a956-08e3-7ec6-dc17-e8a9b44d408a
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec16games))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L16: Introduction to Game Development'
 uid: 560d0803-2c63-d089-dacb-27b78bd7f92f
 video_files:

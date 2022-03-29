@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.1 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec8streamit))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L8: StreamIt Language'
 uid: 05895c8b-0759-4f57-d7ce-450c591b7c08
 video_files:

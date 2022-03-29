@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.5 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec3architctre))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L3: Introduction to Parallel Architectures'
 uid: ff54689f-9a2d-5cb3-74eb-29b95b36eedd
 video_files:

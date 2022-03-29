@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec11compilers))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L11: Parallelizing Compilers'
 uid: 9fbaa995-32b1-034d-0db2-098164665871
 video_files:

@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 2.1 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec2cell))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L2: Introduction to Cell Processor'
 uid: 8bfc4608-0b11-ab1c-a392-8d2f2bd472e8
 video_files:

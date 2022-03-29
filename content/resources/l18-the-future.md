@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec18future))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'L18: The Future'
 uid: 4fbe90dc-fbdc-3b80-b579-4cd3da3ec7c5
 video_files:

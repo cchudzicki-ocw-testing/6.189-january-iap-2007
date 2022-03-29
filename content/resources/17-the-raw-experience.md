@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Notes
@@ -12,6 +13,7 @@ parent_type: CourseSection
 related_resources_text: Lecture Notes ([PDF - 1.9 MB](/courses/6-189-multicore-programming-primer-january-iap-2007/resources/lec17raw))
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: '17: The Raw Experience'
 uid: b684a726-3547-c209-c1eb-fc11694831c9
 video_files:
