@@ -43,3 +43,4 @@ Topics covered:** Star-P (Courtesy of Alan Edelman. Used with permission.)
 Video is not available for Lecture 13.
 
 Subtitles are provided through the generous assistance of Rohan Pai.
+

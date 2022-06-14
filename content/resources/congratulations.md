@@ -26,3 +26,4 @@ video_metadata:
 ---
 
 Congratulations to the Blue-Steel Ray Tracer group! They were the first place winners of the competition. To learn more about the award ceremony, view the PDF and video.
+

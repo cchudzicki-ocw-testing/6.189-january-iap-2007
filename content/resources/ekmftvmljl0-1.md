@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-189-multicore-programming-primer-january-iap-2007/c040c9779135adfc7cbe215c4def3ed5_EkMfTvmLJl0.pdf
+file: /courses/6-189-multicore-programming-primer-january-iap-2007/c040c9779135adfc7cbe215c4def3ed5_EkMfTvmLJl0.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

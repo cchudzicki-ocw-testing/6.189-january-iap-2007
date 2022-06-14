@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Battery simulation
 
 **Instructor/speaker:** James Geraci, Sudarshan Raghunathan, and John Chu
+

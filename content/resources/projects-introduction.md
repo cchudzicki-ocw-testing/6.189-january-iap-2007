@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Introduction
 
 **Instructor/speaker:** Rodric Rabbah
+

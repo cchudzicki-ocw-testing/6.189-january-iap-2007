@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Mike Acton, Insomiac Games
 
 Subtitles are provided through the generous assistance of Rohan Pai.
+

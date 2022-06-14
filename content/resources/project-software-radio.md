@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Software radio
 
 **Instructor/speaker:** Micah Brodsky and Arvind Thiagarajan
+

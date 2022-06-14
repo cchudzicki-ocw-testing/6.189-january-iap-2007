@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Michael Perrone, IBM
 
 Subtitles are provided through the generous assistance of Rohan Pai.
+

@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Molecular dynamics
 
 **Instructor/speaker:** Greg Pintilie
+

@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Speech synthesis
 
 **Instructor/speaker:** Drew Altschul, Joyce Chen, Eric Eisner, Omari Stephens, and Brown Westrick
+

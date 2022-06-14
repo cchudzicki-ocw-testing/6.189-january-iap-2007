@@ -33,3 +33,4 @@ video_metadata:
 **Topics covered:** Blue-steel ray tracer
 
 **Instructor/speaker:** Natalia Chernenko, Michael D'Ambrosio, Scott Fisher, Brian Sweatt, R. J. Ryan, and Leevar Williams
+

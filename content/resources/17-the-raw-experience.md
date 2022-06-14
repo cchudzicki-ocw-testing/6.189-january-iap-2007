@@ -30,3 +30,4 @@ video_metadata:
 **Instructor:** Rodric Rabbah, IBM
 
 Subtitles are provided through the generous assistance of Rohan Pai.
+

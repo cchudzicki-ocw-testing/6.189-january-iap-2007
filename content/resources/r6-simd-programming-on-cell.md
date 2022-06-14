@@ -34,3 +34,4 @@ video_metadata:
 **Topics covered:** SIMD programming on Cell
 
 **Instructor:** Phil Sung
+

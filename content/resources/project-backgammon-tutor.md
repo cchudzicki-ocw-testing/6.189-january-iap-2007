@@ -28,3 +28,4 @@ video_metadata:
 **Topics covered:** Backgammon tutor
 
 **Instructor/speaker:** Eddie Scholtz and Mike Fitzgerald
+
