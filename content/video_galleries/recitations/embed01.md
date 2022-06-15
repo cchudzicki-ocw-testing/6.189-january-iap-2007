@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Lecture notes and supporting files for a recitation on Cell programming.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

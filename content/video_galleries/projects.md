@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section provides information on the team projects of the course
+  along with examples of student presentations.
 is_media_gallery: true
 learning_resource_types:
 - Projects

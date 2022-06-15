@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides useful information on multicore programming and
+  videos of recitation sections of the course.
 is_media_gallery: true
 learning_resource_types:
 - Recitations
