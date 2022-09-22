@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/86514891d3e39
 file_type: application/x-gzip
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection

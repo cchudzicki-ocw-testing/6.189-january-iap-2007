@@ -6,6 +6,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/0cbeedf18c91a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes and Video
 parent_type: CourseSection

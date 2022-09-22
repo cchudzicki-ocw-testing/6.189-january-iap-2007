@@ -5,6 +5,7 @@ file: /courses/6-189-multicore-programming-primer-january-iap-2007/0fc8bd2233e05
 file_type: application/x-shockwave-flash
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
